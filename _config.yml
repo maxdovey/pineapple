@@ -1,0 +1,19 @@
+# User config
+author: "Max Dovey"
+tagline: ""
+description: "I design performative interactions between people and things and create participatory experiences that make use of networks, data, algorithms and computational culture.
+My work looks at contemporary algorithmic culture through an embodied performative practice and documentation of some of my projects can be found below."
+teaching: "I am pathway leader for MA Computational Art at Camberwell College of Arts and have delivered various guest workshops and short courses in creative technology."
+production: "I produce cultural events and have organised conferences, parties, festivals and screenings for academic and cultral organisations."
+keywords: "Data, Art, Performance, Experience"
+email: "Dear@maxdovey.com"
+linkedin: "https://www.are.na/max-dovey/"
+twitter: "https://twitter.com/maxdovey"
+github: "https://github.com/maxdovey/"
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
