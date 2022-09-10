@@ -2,7 +2,7 @@
 layout: posts
 title:  "Rebecca's Flat"
 date:   2018-07-02 16:16:01 -0600
-category: blog
+tags: ["programming", "jekyll"]
 ---
 ![alt text](/assets/images/production/agorama/agorama-logo.jpeg)
 <br> <br>
