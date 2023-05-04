@@ -22,7 +22,7 @@
 		<section class="projects">
 			<div class="container">
 				<ul class="projects-list">
-					{% for item in site.categories.projects %}
+					{% for item in site.posts %}
 						<li>
 							<a href="{{ item.url | prepend: site.baseurl }}">
 								<div class="img-wrapper">

@@ -1,7 +1,7 @@
 ---
 layout: project
 permalink: /:title/
-category: projects
+category: production
 
 meta:
   keywords: "Collaboration, Live Action Role Play, Interspecies politics"

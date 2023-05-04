@@ -8,18 +8,39 @@ CV is available on <a href="mailto:dear@maxdovey.com?subject=CV%20request">reque
 <br>
 <br>
 <br>
-## Education
-* 2015
-* Masters Media Design & Communication Piet Zwart Institute (WDKA) Rotterdam, Netherlands
-* 2012
-* First Class BA Hons Fine Art: Time Based Media at University Arts London  
 
-## Awards
+# Education
+## 2021 
+* PgCert Academic Practice in Art, Design and Communication Univeristy Arts London
+## 2015
+* Masters Media Design & Communication Piet Zwart Institute (WDKA) Rotterdam, Netherlands
+## 2012
+* First Class BA Hons Fine Art: Time Based Media at University Arts London  
+<br>
+
+# Awards
+## 2016
 * [Stimulering funds Talent Development Fund](https://stimuleringsfonds.nl/en/grants_issued/max_dovey/3896/)
 * [CBK O&O research and development grant for Banking with Grandad ](https://www.rotterdamsekunstenaars.nl/nl/database/details/q/kunstenaar_id/451843/resultpage/1/narrowlevel/0/iskunstenaar/1/isvormgever/0/zoekkv/1)
+## 2012
 * Catlin Art Prize shortlist
+<br>
+<br>
 
-## Exhibitions and Shows
+# Residencies 
+## 2023
+* [Metabolic Sublime at Medialab Matedero, Madrid ES](https://sublimemetabolico.medialab-matadero.es/en/the-sublime-metabolic/)
+## 2022
+* [Choreographic Coding Lab #14 at A + E Lab, Chatham UK.](https://www.youtube.com/watch?v=nzAZ27gKGZM) 
+<br>
+<br>
+# Exhibitions and Shows
+
+## 2023 
+
+* [Rare Earth Walks at 'Feeling Machines' at Control Shift Festival, Bristol UK](https://www.control-shift.network/artwork.html?artwork=rare-earth-walks)
+* [Forces of the small: project for an artwork compacted and condensed](https://www.whitechapelgallery.org/first-thursdays/exhibitions/first-thursdays-i-against-i-at-soft-opening/attachment/1677502133302/)
+
 
 ## 2019
 * [Re:connect](https://www.setup.nl/reconnect)

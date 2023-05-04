@@ -1,7 +1,7 @@
 ---
 layout: project
 permalink: /:title/
-category: projects
+category: production
 
 meta:
   keywords: "Live Action Role Play, Blockchain, Focus Group"
