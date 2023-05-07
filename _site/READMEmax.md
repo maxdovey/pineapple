@@ -2,6 +2,7 @@ The site is now hosted directly on maxdovey.com
 
 project.html is the profile page of a project 
 projects is the category page 
+to edit #CSS go to Assets -> CSS 
 
 ## to update site use ftp account to public_html/maxdovey-redirect
 ## edit locally and run '''jekyll build''' in root directory ('pineapple master')
