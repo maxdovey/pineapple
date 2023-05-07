@@ -4,7 +4,7 @@ permalink: /:title/
 category: production
 
 meta:
-  keywords: "Collaboration, Live Action Role Play, Interspecies politics"
+  keywords: "Live Action Role Play in Interspecies politics"
 
 project:
   title: "The Treaty of Finsbury Park 2025"

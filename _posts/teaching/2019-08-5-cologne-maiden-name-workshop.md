@@ -4,7 +4,7 @@ permalink: /:title/
 category: teaching
 
 meta:
-  keywords: "Teaching, Oulipo, Psychometrics, AR"
+  keywords: "Phychometric workshop Cologne, Germany."
 
 project:
   title: "Cologne, What is Your Mother's Maiden Name?"

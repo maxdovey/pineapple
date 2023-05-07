@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Choral Rendition of 56k Modem"
 
 project:
   title: "Dial-up-choir"

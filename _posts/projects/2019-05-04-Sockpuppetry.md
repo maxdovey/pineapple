@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "data, Psychometrics,language"
+  keywords: "Writing workshops in sentient analysis"
 
 project:
   title: "Sockpuppetry"

@@ -4,7 +4,7 @@ permalink: /:title/
 category: production
 
 meta:
-  keywords: "p2p web, raspberrypi"
+  keywords: "arts studio researching de-centralized web"
 
 project:
   title: "Agorama"

@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "rare earth elements, metal detecting"
+  keywords: "Residency exploring rare earth metals"
 project:
   title: "All our best machines are made of sunshine"
   type: "workshop"

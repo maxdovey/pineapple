@@ -4,7 +4,7 @@ permalink: /:title/
 category: teaching
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "visiting workshop at RCA, UK"
 
 project:
   title: "Situated Fictions"

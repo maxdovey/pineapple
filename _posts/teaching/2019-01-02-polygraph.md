@@ -4,7 +4,7 @@ permalink: /:title/
 category: teaching
 
 meta:
-  keywords: "Machine Learning, psycho-analysis & psychometrics"
+  keywords: "Visiting Workshop at St.Joost in Breda, Netherlands"
 
 project:
   title: "How to Build A Lie Detector"

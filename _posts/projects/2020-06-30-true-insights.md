@@ -4,7 +4,7 @@ permalink: /:title/
 category: production
 
 meta:
-  keywords: "Live Action Role Play, Blockchain, Focus Group"
+  keywords: "Live Action Role Play Focus Group"
 
 project:
   title: "True Insights"

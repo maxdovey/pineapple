@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Performing A.I. gender recognition"
 
 project:
   title: "How to be More or Less Human"

@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Touring Festival Pop-up Post-Office"
 
 project:
   title: "The Secret Post Office"

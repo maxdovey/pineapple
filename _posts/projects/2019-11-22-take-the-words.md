@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Machine Learning, AI, Spoken Word"
+  keywords: "Voice cloning performance"
 
 project:
   title: "Take The Words Right Out Of My Mouth"

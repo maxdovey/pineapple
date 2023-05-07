@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Social Media Stock Market"
 
 project:
   title: "Emotional Stock Market"

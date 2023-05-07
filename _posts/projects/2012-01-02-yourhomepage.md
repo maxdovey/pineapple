@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Interactive Web Based Commission"
 
 project:
   title: "Your Homepage"

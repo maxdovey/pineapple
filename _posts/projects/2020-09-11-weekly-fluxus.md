@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Website, Fluxus, Performance"
+  keywords: "fluxus performances sent weekly via sms"
 
 project:
   title: "Weekly Fluxus"

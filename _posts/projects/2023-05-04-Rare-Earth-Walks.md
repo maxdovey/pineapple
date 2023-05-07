@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "rare earth elements, metal detecting"
+  keywords: "Guided expeditions for critical minerals"
 
 project:
   title: "Rare Earth Walks"

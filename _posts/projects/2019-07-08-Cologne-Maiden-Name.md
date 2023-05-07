@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Data, Psychometrics,Augmented Reality"
+  keywords: "psychometric taxi rides"
 
 project:
   title: "Cologne, What is Your Mother's Maiden Name?"

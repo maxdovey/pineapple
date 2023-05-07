@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Celebrating Death of Analouge Broadcasting"
 
 project:
   title: "The Last Day of TV"

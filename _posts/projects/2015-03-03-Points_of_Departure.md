@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "public commission for Wilhelminapier, Rotterdam"
 
 project:
   title: "Points of Departure"

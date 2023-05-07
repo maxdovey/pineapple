@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "A.I hipster image recognition"
 
 project:
   title: "A Hipster Bar"

@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "short film exploring money & accounting"
 
 project:
   title: "Banking with Grandad"

@@ -4,7 +4,7 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "respiration based crypto mining"
 
 project:
   title: "Respiratory Mining"
