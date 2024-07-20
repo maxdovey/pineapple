@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "p2p Web Jam at Agorama"
 date:   2019-01-12 14:00:01 -0600
 ---
