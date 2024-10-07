@@ -36,8 +36,12 @@ CV is available on <a href="mailto:dear@maxdovey.com?subject=CV%20request">reque
 <br>
 # Exhibitions and Shows
 
-## 2023 
+## 2024 
+* [Stones in your Phone workshop at Goldsmiths CCA in collaboration with Linked Spheres, London UK (forthcoming)](https://www.eventbrite.co.uk/e/artist-workshops-the-stones-in-my-phone-by-max-dovey-tickets-1009184918257)
 
+
+## 2023 
+* [Rare Earth Walks at 'Screen Walks Weekend' with Photographers Gallery, London UK](https://thephotographersgallery.org.uk/whats-on/rare-earth-walk#:~:text=Rare%20Earth%20Walks%20are%20collective,mineral%20mythology%20found%20in%20smartphones.)
 * [Rare Earth Walks at 'Feeling Machines' at Control Shift Festival, Bristol UK](https://www.control-shift.network/artwork.html?artwork=rare-earth-walks)
 * [Forces of the small: project for an artwork compacted and condensed](https://www.whitechapelgallery.org/first-thursdays/exhibitions/first-thursdays-i-against-i-at-soft-opening/attachment/1677502133302/)
 
