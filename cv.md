@@ -29,20 +29,20 @@ CV is available on <a href="mailto:dear@maxdovey.com?subject=CV%20request">reque
 
 # Residencies 
 ## 2023
-* [Metabolic Sublime at Medialab Matedero, Madrid ES](https://sublimemetabolico.medialab-matadero.es/en/the-sublime-metabolic/)
+* Metabolic Sublime at [Medialab Matedero](https://sublimemetabolico.medialab-matadero.es/en/the-sublime-metabolic/) Madrid, Spain.
 ## 2022
-* [Choreographic Coding Lab #14 at A + E Lab, Chatham UK.](https://www.youtube.com/watch?v=nzAZ27gKGZM) 
+* [Choreographic Coding Lab #14](https://www.youtube.com/watch?v=nzAZ27gKGZM) at A + E Lab, Chatham UK.
 <br>
 <br>
 # Exhibitions and Performances
 
 ## 2024 
-* [Stones in your Phone workshop at Goldsmiths CCA in collaboration with Linked Spheres, London UK (forthcoming)](https://www.eventbrite.co.uk/e/artist-workshops-the-stones-in-my-phone-by-max-dovey-tickets-1009184918257)
-* [Treaty Signing event & exhibition at Furtherfield Gallery, London UK](https://treaty.finsburypark.live/)
+* Stones in your Phone workshop at Goldsmiths CCA in collaboration with Linked Spheres, London UK ][(forthcoming)](https://www.eventbrite.co.uk/e/artist-workshops-the-stones-in-my-phone-by-max-dovey-tickets-1009184918257)
+* [Treaty Signing event & exhibition]((https://treaty.finsburypark.live/) at Furtherfield Gallery, London UK
 
 ## 2023 
-* Performance and LARP host at [Cosmic Arts Copyright Convention]((https://decal.furtherfield.org/2024/01/05/the-cosmic-arts-copyright-convention/) directed by Futherfield, online. 
-* ~~Rare Earth Walks at No Festival as part of [Piksel]((https://no.piksel.no/)in Bergen, Norway.~~Cancelled - Read [why].(https://maxdovey.substack.com/p/no-no-festival-no-studio-and-no-more)
+* Performance and LARP host at [Cosmic Arts Copyright Convention](https://decal.furtherfield.org/2024/01/05/the-cosmic-arts-copyright-convention/) directed by Futherfield, online. 
+* Rare Earth Walks at No Festival as part of [Piksel]((https://no.piksel.no/)in Bergen, Norway. ~~Cancelled~~ - Read [why](https://maxdovey.substack.com/p/no-no-festival-no-studio-and-no-more)
 * Rare Earth Walks at [Screen Walks Weekend](https://thephotographersgallery.org.uk/whats-on/rare-earth-walk#:~:text=Rare%20Earth%20Walks%20are%20collective,mineral%20mythology%20found%20in%20smartphones.) with Photographers Gallery, London UK.
 * Performance and LARP host at [Interspecies Festival of Finsbury Park](https://www.furtherfield.org/the-treaty-of-finsbury-park-2025/), directed by Futherfield. 
 * Rare Earth Walks at [Feeling Machines](https://www.control-shift.network/artwork.html?artwork=rare-earth-walks) at Control Shift Festival, Bristol UK.
