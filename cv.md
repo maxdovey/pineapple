@@ -37,12 +37,12 @@ CV is available on <a href="mailto:dear@maxdovey.com?subject=CV%20request">reque
 # Exhibitions and Performances
 
 ## 2024 
-* Stones in your Phone workshop at Goldsmiths CCA in collaboration with Linked Spheres, London UK ][(forthcoming)](https://www.eventbrite.co.uk/e/artist-workshops-the-stones-in-my-phone-by-max-dovey-tickets-1009184918257)
+* Stones in your Phone workshop at Goldsmiths CCA in collaboration with Linked Spheres, London UK [(forthcoming)](https://www.eventbrite.co.uk/e/artist-workshops-the-stones-in-my-phone-by-max-dovey-tickets-1009184918257)
 * [Treaty Signing event & exhibition](https://treaty.finsburypark.live/) at Furtherfield Gallery, London UK
 
 ## 2023 
 * Performance and LARP host at [Cosmic Arts Copyright Convention](https://decal.furtherfield.org/2024/01/05/the-cosmic-arts-copyright-convention/) directed by Furtherfield, online. 
-* Rare Earth Walks at No Festival as part of [Piksel](https://no.piksel.no/)in Bergen, Norway. ~~Cancelled~~ - Read [why](https://maxdovey.substack.com/p/no-no-festival-no-studio-and-no-more)
+* Rare Earth Walks at No Festival as part of [Piksel](https://no.piksel.no/) in Bergen, Norway. ~~Cancelled~~ - Read [why.](https://maxdovey.substack.com/p/no-no-festival-no-studio-and-no-more)
 * Rare Earth Walks at [Screen Walks Weekend](https://thephotographersgallery.org.uk/whats-on/rare-earth-walk#:~:text=Rare%20Earth%20Walks%20are%20collective,mineral%20mythology%20found%20in%20smartphones.) with Photographers Gallery, London UK.
 * Performance and LARP host at [Interspecies Festival of Finsbury Park](https://www.furtherfield.org/the-treaty-of-finsbury-park-2025/), directed by Furtherfield. 
 * Rare Earth Walks at [Feeling Machines](https://www.control-shift.network/artwork.html?artwork=rare-earth-walks) at Control Shift Festival, Bristol UK.
@@ -52,11 +52,11 @@ CV is available on <a href="mailto:dear@maxdovey.com?subject=CV%20request">reque
 * Performance and LARP host at [Interspecies Assemblies]((https://www.furtherfield.org/the-treaty-of-finsbury-park-2025/)) directed by Futherfield, online.
 
 ## 2019
-* [Re:connect](https://www.setup.nl/reconnect)
-* [UnMake Lab](https://www.forkingroom.kr/exhibition)
-* [La gaîté lyrique](https://gaite-lyrique.net/en/cycle/new-kids-on-the-blockchain)
-* [Akademie der Künste der Welt](https://www.academycologne.org/en/article/1576_noordkaap_taxi)
-* [Raven Row Open House](http://www.ravenrow.org/projects/open_house/)
+* Commission, residency and exhibition of [Take the Words Right Out Of My Mouth](https://www.maxdovey.com/take-the-words/) at [Setup](https://www.setup.nl/reconnect) in Utrecht, Netherlands.
+* Presentation of [How to be More or Less Human](https://www.maxdovey.com/howtobemoreorless/) at [UnMake Lab](https://www.forkingroom.kr/exhibition) in Seoul, South Korea. 
+* Presentation of [Respiratory Mining](https://www.maxdovey.com/respiratory_mining/) at [La gaîté lyrique](https://gaite-lyrique.net/en/cycle/new-kids-on-the-blockchain) in Paris, France. 
+* Comission, residency and presentation of [Cologne, What is your Mother's Maiden Name?](https://www.maxdovey.com/cologne-maiden-name/) at [Akademie der Künste der Welt](https://www.academycologne.org/en/article/1576_noordkaap_taxi) in Cologne, Germany.
+* Presentation of [Sockpuppetry](https://www.maxdovey.com/sockpuppetry/) at [Raven Row Open House](http://www.ravenrow.org/projects/open_house/) in London, UK. 
 ## 2018
 * [Link Art Cabinet](http://www.linkcabinet.eu/archive/max-dovey/)
 * [New World Order](http://drugo-more.hr/en/new-world-order-exhibition/)
