@@ -58,9 +58,9 @@ CV is available on <a href="mailto:dear@maxdovey.com?subject=CV%20request">reque
 * Comission, residency and presentation of [Cologne, What is your Mother's Maiden Name?](https://www.maxdovey.com/cologne-maiden-name/) at [Akademie der Künste der Welt](https://www.academycologne.org/en/article/1576_noordkaap_taxi) in Cologne, Germany.
 * Presentation of [Sockpuppetry](https://www.maxdovey.com/sockpuppetry/) at [Raven Row Open House](http://www.ravenrow.org/projects/open_house/) in London, UK. 
 ## 2018
-* [Link Art Cabinet](http://www.linkcabinet.eu/archive/max-dovey/)
-* [New World Order](http://drugo-more.hr/en/new-world-order-exhibition/)
-* [MoneyLab#4](https://www.somersethouse.org.uk/whats-on/moneylab-art-culture-and-financial-activism)
+* Comission and presentation of [Mining Cards](https://www.maxdovey.com/mining_cards/) at [Link Art Cabinet.](http://www.linkcabinet.eu/archive/max-dovey/)
+* Presentation of [Respiratory Mining](https://www.maxdovey.com/respiratory_mining/) at [New World Order](http://drugo-more.hr/en/new-world-order-exhibition/) in Rijeka, Croatia.
+* Presentation of [Respiratory Mining](https://www.maxdovey.com/respiratory_mining/) at [MoneyLab#4](https://www.somersethouse.org.uk/whats-on/moneylab-art-culture-and-financial-activism)
 ## 2017
 * [After Money](http://aftermoney.design/exhibition/)
 * [Furtherfield](https://www.furtherfield.org/)
