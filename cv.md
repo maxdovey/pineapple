@@ -43,11 +43,14 @@ CV is available on <a href="mailto:dear@maxdovey.com?subject=CV%20request">reque
 
 
 ## 2023 
-* [Performance and LARP host at Cosmic Arts Copyright Convention Directed by Futherfield, online](https://decal.furtherfield.org/2024/01/05/the-cosmic-arts-copyright-convention/)
+* [Performance and LARP host at Cosmic Arts Copyright Convention directed by Futherfield, online](https://decal.furtherfield.org/2024/01/05/the-cosmic-arts-copyright-convention/)
 * [Rare Earth Walks at 'Screen Walks Weekend' with Photographers Gallery, London UK](https://thephotographersgallery.org.uk/whats-on/rare-earth-walk#:~:text=Rare%20Earth%20Walks%20are%20collective,mineral%20mythology%20found%20in%20smartphones.)
+* [Performance and LARP host at Interspecies Festival of Finsbury Park, directed by Futherfield](https://www.furtherfield.org/the-treaty-of-finsbury-park-2025/)
 * [Rare Earth Walks at 'Feeling Machines' at Control Shift Festival, Bristol UK](https://www.control-shift.network/artwork.html?artwork=rare-earth-walks)
 * [Forces of the small: project for an artwork compacted and condensed](https://www.whitechapelgallery.org/first-thursdays/exhibitions/first-thursdays-i-against-i-at-soft-opening/attachment/1677502133302/)
 
+## 2022
+* [Performance and LARP host at Interspecies Assemblies, directed by Futherfield, online](https://www.furtherfield.org/the-treaty-of-finsbury-park-2025/)
 
 ## 2019
 * [Re:connect](https://www.setup.nl/reconnect)
