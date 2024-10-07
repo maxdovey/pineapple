@@ -20,8 +20,8 @@ CV is available on <a href="mailto:dear@maxdovey.com?subject=CV%20request">reque
 
 # Awards
 ## 2016
-* [Stimulering funds Talent Development Fund](https://stimuleringsfonds.nl/en/grants_issued/max_dovey/3896/)
-* [CBK O&O research and development grant for Banking with Grandad ](https://www.rotterdamsekunstenaars.nl/nl/database/details/q/kunstenaar_id/451843/resultpage/1/narrowlevel/0/iskunstenaar/1/isvormgever/0/zoekkv/1)
+* Talent Development Fund from [Stimulering funds](https://stimuleringsfonds.nl/en/grants_issued/max_dovey/3896/) 
+* Research and development grant from [CBK O&O](https://www.rotterdamsekunstenaars.nl/nl/database/details/q/kunstenaar_id/451843/resultpage/1/narrowlevel/0/iskunstenaar/1/isvormgever/0/zoekkv/1) for Banking with Grandad.
 ## 2012
 * Catlin Art Prize shortlist
 <br>
@@ -38,13 +38,13 @@ CV is available on <a href="mailto:dear@maxdovey.com?subject=CV%20request">reque
 
 ## 2024 
 * Stones in your Phone workshop at Goldsmiths CCA in collaboration with Linked Spheres, London UK ][(forthcoming)](https://www.eventbrite.co.uk/e/artist-workshops-the-stones-in-my-phone-by-max-dovey-tickets-1009184918257)
-* [Treaty Signing event & exhibition]((https://treaty.finsburypark.live/) at Furtherfield Gallery, London UK
+* [Treaty Signing event & exhibition](https://treaty.finsburypark.live/) at Furtherfield Gallery, London UK
 
 ## 2023 
-* Performance and LARP host at [Cosmic Arts Copyright Convention](https://decal.furtherfield.org/2024/01/05/the-cosmic-arts-copyright-convention/) directed by Futherfield, online. 
-* Rare Earth Walks at No Festival as part of [Piksel]((https://no.piksel.no/)in Bergen, Norway. ~~Cancelled~~ - Read [why](https://maxdovey.substack.com/p/no-no-festival-no-studio-and-no-more)
+* Performance and LARP host at [Cosmic Arts Copyright Convention](https://decal.furtherfield.org/2024/01/05/the-cosmic-arts-copyright-convention/) directed by Furtherfield, online. 
+* Rare Earth Walks at No Festival as part of [Piksel](https://no.piksel.no/)in Bergen, Norway. ~~Cancelled~~ - Read [why](https://maxdovey.substack.com/p/no-no-festival-no-studio-and-no-more)
 * Rare Earth Walks at [Screen Walks Weekend](https://thephotographersgallery.org.uk/whats-on/rare-earth-walk#:~:text=Rare%20Earth%20Walks%20are%20collective,mineral%20mythology%20found%20in%20smartphones.) with Photographers Gallery, London UK.
-* Performance and LARP host at [Interspecies Festival of Finsbury Park](https://www.furtherfield.org/the-treaty-of-finsbury-park-2025/), directed by Futherfield. 
+* Performance and LARP host at [Interspecies Festival of Finsbury Park](https://www.furtherfield.org/the-treaty-of-finsbury-park-2025/), directed by Furtherfield. 
 * Rare Earth Walks at [Feeling Machines](https://www.control-shift.network/artwork.html?artwork=rare-earth-walks) at Control Shift Festival, Bristol UK.
 * Group exhibition: [Forces of the small: project for an artwork compacted and condensed](https://www.whitechapelgallery.org/first-thursdays/exhibitions/first-thursdays-i-against-i-at-soft-opening/attachment/1677502133302/)
 
