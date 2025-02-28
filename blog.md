@@ -1,5 +1,5 @@
 ---
-title: blog
+title: projects
 permalink: "/blog/"
-layout: posts
+category: blog
 ---

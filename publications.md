@@ -4,6 +4,9 @@ title: publications
 category: publications
 ---
 
+## 2024
+[Control Shift Podcast Episode 4](https://soundcloud.com/control_shift_network/episode-4) "Technology is Material" feat Max Dovey and Harriet Horobin-Worley.
+
 ## 2020
 * [NK Taki 2019](https://issuu.com/maxdovey/docs/nk-taxi-inside_black_web) "NK Taxi 2019” is a visual report of an artproject that took place in taxis of Cologne in June 2019
 ## 2019
@@ -15,3 +18,5 @@ category: publications
 * [Artists Re:Thinking the Blockchain](http://torquetorque.net/publications/artists-rethinking-the-blockchain/) published by Furtherfield & Torque
 ## 2015
 * [Real Projects For Real People vol.4](https://www.patchingzone.net/images/RealProjectsforRealPeople_Vol4_thePatchingZoneLR.pdf) published by The Patching Zone
+
+<br>
