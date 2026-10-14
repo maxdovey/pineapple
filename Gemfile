@@ -1,6 +1,5 @@
 gem "jekyll", "~> 4.3.4"
 
-
 # If you have any plugins, put them here!
 group :jekyll_plugins do
 gem "jekyll-feed", "~> 0.12"
