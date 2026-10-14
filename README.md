@@ -53,5 +53,3 @@ Projects are created as `.md` documents within the `_posts/projects` directory. 
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
-
-- Test LH
