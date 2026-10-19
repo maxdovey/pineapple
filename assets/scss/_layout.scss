@@ -10,6 +10,7 @@
 	background: $color-white;
 	padding: 3rem 0;
 }
+
 #nav-header {
 	padding: 3rem 0;
 }
@@ -21,9 +22,6 @@
 	display: inline;
 
 }
-// .page-link:hover{
-// 	color:blue;
-// }
 
 .logo {
 	float: left;
@@ -209,11 +207,11 @@
 		}
 
 		@media (max-width: $breakpoint-medium) {
-	margin-top: -6rem;
-	margin-bottom: 3rem;
-	padding-left: 3rem;
-	padding-right: 3rem;
-}
+			margin-top: -6rem;
+			margin-bottom: 3rem;
+			padding-left: 3rem;
+			padding-right: 3rem;
+		}
 	}
 
 	.project-meta {
@@ -367,7 +365,7 @@
 }
 
 .footer {
-	background: $color-alabaster;
+	background: $color-cream--dark;
 	bottom: 0;
 	left: 0;
 	padding: 5rem 0;
@@ -377,7 +375,7 @@
 }
 
 .contact,
-.follow, {
+.follow {
 	@media (min-width: $breakpoint-medium) {
 		float: left;
 		margin-bottom: 0;
@@ -395,6 +393,7 @@
 }
 
 .contact,
-.follow, .site-info, {
+.follow,
+.site-info {
 	margin-bottom: 3rem;
 }

@@ -1,9 +1,9 @@
 html {
-	font-size: 62.5%;
+	font-size: 100%;
 }
 
 body {
-	background: $color-white;
+	background: $color-cream;
 	color: $color-black;
 	font-family: $font-poppins;
 	font-size: 1.8em;
@@ -50,6 +50,7 @@ h3:hover {
 	text-decoration: none;
 
 }
+
 p {
 	margin: 0;
 }
@@ -57,19 +58,15 @@ p {
 a {
 	color: blue;
 	text-decoration: none;
-}
-a:hover {
-	color:transparent;
-	text-shadow: 0 0 2.5px blue;
-	text-decoration: none;
-}
 
-a.blur
-{
-	text-decoration: none;
-	color: #339;
-}
+	&:hover {
+		text-decoration: none;
+	}
 
+	&.blur {
+		color: #339
+	}
+}
 
 ul {
 	margin: 0;
