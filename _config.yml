@@ -18,3 +18,4 @@ highlighter: rouge
 sass:
   sass_dir: assets/scss
   style: compressed
+exclude: [docs]
