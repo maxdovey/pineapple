@@ -5,3 +5,31 @@
 		display: block;
 	}
 }
+
+@mixin font-default {
+	font-size: $font-size-default-mobile;
+
+	@media (min-width: $breakpoint-medium) {
+		font-size: $font-size-default-desktop;
+	}
+}
+
+@mixin font-icon {
+	font-family: $font-icon;
+	font-variation-settings:
+	'FILL' 0,
+	'GRAD' 0,
+	'opsz' 24
+}
+
+@mixin hover($type, $speed, $ease) {
+    transition: $type $speed $ease;
+}
+
+@mixin header-style {
+	letter-spacing: .1rem;
+    line-height: 1.5;
+    margin: 1rem 0 1rem;
+    text-transform: uppercase;
+	color: $color-coffee;
+}

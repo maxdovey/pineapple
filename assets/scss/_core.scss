@@ -3,10 +3,10 @@ html {
 }
 
 body {
+	@include font-default;
 	background: $color-cream;
 	color: $color-black;
-	font-family: $font-poppins;
-	font-size: 1.8em;
+	font-family: $font-primary;
 	line-height: 1.6;
 	font-weight: 600;
 	-webkit-font-smoothing: antialiased;
@@ -23,30 +23,22 @@ h1,
 
 h2,
 .h2 {
-	color: $color-silver-chalice;
-	display: block;
-	font-family: $font-lekton;
-    font-size: 1.5rem;
-    font-weight: 400;
-    letter-spacing: .2rem;
-	line-height: 1.5;
-	margin: 1rem, 0, 1rem;
-    text-transform: uppercase;
+	@include header-style;
+	font-size: 1rem;
 }
 
 h3,
 .h3 {
-	color: blue;
 	text-decoration: none;
-	font-family: $font-poppins;
-    font-size: 1.8rem;
+	font-family: $font-primary;
+    font-size: 1.3rem;
     font-weight: 600;
-    line-height: 1;
+    line-height: 1.4;
     margin: 0;
 }
+
 h3:hover {
-	color:transparent;
-	// text-shadow: 0 0 2.5px blue;
+	color: rgba(0, 0, 0, 0.6);
 	text-decoration: none;
 
 }
@@ -56,11 +48,12 @@ p {
 }
 
 a {
-	color: blue;
+	@include hover(color, $animation-speed-fast, $animation-ease-default);
+	color: $color-black;
 	text-decoration: none;
 
 	&:hover {
-		text-decoration: none;
+		color: rgba(0, 0, 0, 0.6);
 	}
 
 	&.blur {
