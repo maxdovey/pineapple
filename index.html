@@ -39,7 +39,8 @@
 		</section>
 	</main>
 	{% include footer.html %}
+	{% assign cacheVersion = site.time | date:'?v=%s' %}
 	<script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
-	<script src="{{ "/assets/scripts/home.js" | prepend: site.baseurl }}"></script>
+	<script src="{{ "/assets/scripts/home.js" | prepend: site.baseurl | append: cacheVersion }}" type="module"></script>
 </body>
 </html>

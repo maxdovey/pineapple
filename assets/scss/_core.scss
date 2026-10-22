@@ -38,9 +38,7 @@ h3,
 }
 
 h3:hover {
-	color: rgba(0, 0, 0, 0.6);
 	text-decoration: none;
-
 }
 
 p {
@@ -49,11 +47,11 @@ p {
 
 a {
 	@include hover(color, $animation-speed-fast, $animation-ease-default);
-	color: $color-black;
+	color: rgba(0, 0, 0, 0.6);
 	text-decoration: none;
 
 	&:hover {
-		color: rgba(0, 0, 0, 0.6);
+		color: $color-black;
 	}
 
 	&.blur {
