@@ -1,11 +1,17 @@
 $navigation: '.navigation';
 
 #nav-header {
+	@include hover(height, $animation-speed-fast, $animation-ease-default);
 	padding: 0 2rem 0 0;
-	display: none;
+	height: 0;
+	overflow: hidden;
+	position: relative;
+	top: -2rem;
 
 	@media (min-width: $breakpoint-medium) {
         display: block;
+		height: auto;
+		top: initial;
     }
 
 	ul {
@@ -28,6 +34,10 @@ $navigation: '.navigation';
     @include font-default;
 	margin: 0;
 	line-height: 1;
+
+	@media (min-width: $breakpoint-medium) {
+        margin-bottom: 1rem;
+    }
 }
 
 #{$navigation} {
@@ -51,9 +61,14 @@ $navigation: '.navigation';
             }
 
 			~ #nav-header {
-				display: flex;
-				position: absolute;
-				margin-top: -3rem;
+				
+				@supports (width: calc-size(auto, size)) {
+					height: calc-size(auto, size);
+				}
+
+				@supports not (width: calc-size(auto, size)) {
+					height: auto;
+				}
 			}
 		}
 	}

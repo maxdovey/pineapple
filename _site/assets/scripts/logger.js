@@ -1,5 +1,5 @@
 const logger = () => {
-    console.log('Hello from Luke');
+    console.log('El logger está registrando');
 }
 
 export { logger };

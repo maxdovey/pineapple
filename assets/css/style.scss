@@ -3,14 +3,16 @@
 
 @charset "UTF-8";
 
-@import "normalize";
-@import "variables";
-@import "mixins";
-@import "fonts";
-@import "responsive";
-@import "utils";
-@import "core";
-@import "layout";
-@import "syntax";
-@import "navigation";
-@import "projects";
+@import 
+    "normalize",
+    "variables",
+    "mixins",
+    "fonts",
+    "responsive",
+    "utils",
+    "core",
+    "layout",
+    "syntax",
+    "navigation",
+    "projects"
+;
