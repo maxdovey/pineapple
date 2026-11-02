@@ -1,0 +1,25 @@
+.toggle-mode {
+    all: unset;
+    cursor: pointer;
+    font-size: $font-size-default-mobile;
+    position: fixed;
+    font-weight: 200;
+    top: initial;
+    bottom: 0;
+    z-index: 9;
+    background-color: rgba(255,255, 255, 0.5);
+    padding: 0.25rem 0.5rem;
+
+	@media (min-width: $breakpoint-medium) {
+        display: flex;
+        justify-self: end;
+        max-width: calc(70em - 3rem);
+	    top: 0;
+        bottom: initial;
+	}
+}
+
+.dark-mode {
+    background-color: $dark-mode-background;
+    color: $color-alabaster;
+}

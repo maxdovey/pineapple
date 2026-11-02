@@ -11,3 +11,7 @@ Then exec:
 See: https://rossney.net/articles/a-beginners-guide-to-chruby/
 
 Then `jekyll serve`
+
+Or better still
+
+`jekyll serve --livereload`
