@@ -21,9 +21,7 @@
 								href="{{ item.url }}"
 								class="page-link {% if item.url == page.url %}active{% endif %}"
 								{% if item.url == page.url %}aria-current="page"{% endif %}
-							>
-								{{ item.title }}
-							</a>
+							>{{ item.title }}</a>
 						</li>
 					{% endfor %}
 					</ul>
