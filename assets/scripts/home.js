@@ -1,10 +1,4 @@
-import { logger } from './logger.js';
-import { toggleMode } from './toggleMode.js';
-
 document.addEventListener('DOMContentLoaded', () => {
-	logger();
-	toggleMode();
-
 	var sr = ScrollReveal({
 		origin   : "bottom",
 		distance : "64px",

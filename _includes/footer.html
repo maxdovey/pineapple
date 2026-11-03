@@ -26,3 +26,5 @@
 		</section>
 	</div>
 </footer>
+{% assign cacheVersion = site.time | date:'?v=%s' %}
+<script src="{{ "/assets/scripts/bundle.js" | prepend: site.baseurl | append: cacheVersion }}" type="module"></script>

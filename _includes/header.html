@@ -3,8 +3,9 @@
 		<h1 class="logo">
 			<a title="{{ site.author }}" href="{{ site.baseurl | append: "/" }}">{{ site.author }}</a>
 		</h1>
-		<button class="toggle-mode">
-			Dark mode
+		<button class="toggle-mode" aria-label="Toggle dark/light theme">
+			<span class="dark-mode-on">Dark mode</span>
+			<span class="light-mode-on">Light mode</span>
 		</button>
 		<label for="navigation" class="mobile-only navigation-menu">
 			Navigation toggle
@@ -14,12 +15,18 @@
 		<div id="nav-header">
 			<nav>
 				<ul>
-					<li><a class="page-link" href="/projects/">Projects</a></li>
-					<li><a class="page-link" href="/production/">Production</a></li>
-					<li><a class="page-link" href="/teaching/">Teaching</a></li>
-					<li><a class="page-link" href="/cv.html">CV</a></li>
-					<li><a class="page-link" href="/publications.html">Publications</a></li>
-				</ul>
+					{% for item in site.data.navigation.links %}
+						<li>
+							<a
+								href="{{ item.url }}"
+								class="page-link {% if item.url == page.url %}active{% endif %}"
+								{% if item.url == page.url %}aria-current="page"{% endif %}
+							>
+								{{ item.title }}
+							</a>
+						</li>
+					{% endfor %}
+					</ul>
 			</nav>			
 		</div>
 	</div>

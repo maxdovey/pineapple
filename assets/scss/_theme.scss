@@ -1,0 +1,31 @@
+:root {
+    /* Light mode (default) */
+    --background-colour: #{$color-cream};
+    --background-accent-color: #{$color-cream--dark};
+    --text-colour: #{color-black};
+    --header-colour: #{$color-coffee};
+    --accent-colour: #{$color-silver-chalice};
+    --table-row-colour: #{$color-white-sand};
+}
+
+/* Dark mode variables */
+.dark-mode {
+    --background-colour: #{$dark-mode-background};
+    --background-accent-color: #{$dark-mode-accent};
+    --text-colour: #{$color-alabaster};
+    --header-colour: #{$dark-mode-header};
+    --accent-colour: #{colour-grey--dark};
+    --table-row-colour: #{$color-grey--dark};
+
+    .dark-mode-on {
+        display: none;
+    }
+
+    .light-mode-on {
+        display: inline;
+    }
+}
+
+.light-mode-on {
+    display: none;
+}

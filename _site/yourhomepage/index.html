@@ -15,8 +15,18 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="theme-color" content="#ffffff">
+<!-- check dark mode is set -->
+<script>
+    const elem = document.documentElement;
+    const darkMode = 'dark-mode';
+    const darkModeIsSet = localStorage.getItem(darkMode);
 
-<link rel="stylesheet" href="/assets/css/style.css?v=1793659211">
+    if (darkModeIsSet === 'on') {
+        elem.classList.add(darkMode);
+    }
+</script>
+
+<link rel="stylesheet" href="/assets/css/style.css?v=1793721321">
 </head>
 <body>
 	<header class="header">
@@ -24,8 +34,9 @@
 		<h1 class="logo">
 			<a title="Max Dovey" href="/">Max Dovey</a>
 		</h1>
-		<button class="toggle-mode">
-			Dark mode
+		<button class="toggle-mode" aria-label="Toggle dark/light theme">
+			<span class="dark-mode-on">Dark mode</span>
+			<span class="light-mode-on">Light mode</span>
 		</button>
 		<label for="navigation" class="mobile-only navigation-menu">
 			Navigation toggle
@@ -35,12 +46,58 @@
 		<div id="nav-header">
 			<nav>
 				<ul>
-					<li><a class="page-link" href="/projects/">Projects</a></li>
-					<li><a class="page-link" href="/production/">Production</a></li>
-					<li><a class="page-link" href="/teaching/">Teaching</a></li>
-					<li><a class="page-link" href="/cv.html">CV</a></li>
-					<li><a class="page-link" href="/publications.html">Publications</a></li>
-				</ul>
+					
+						<li>
+							<a
+								href="/projects/"
+								class="page-link "
+								
+							>
+								Projects
+							</a>
+						</li>
+					
+						<li>
+							<a
+								href="/production/"
+								class="page-link "
+								
+							>
+								Production
+							</a>
+						</li>
+					
+						<li>
+							<a
+								href="/teaching/"
+								class="page-link "
+								
+							>
+								Teaching
+							</a>
+						</li>
+					
+						<li>
+							<a
+								href="/cv.html"
+								class="page-link "
+								
+							>
+								CV
+							</a>
+						</li>
+					
+						<li>
+							<a
+								href="/publications.html"
+								class="page-link "
+								
+							>
+								Publications
+							</a>
+						</li>
+					
+					</ul>
 			</nav>			
 		</div>
 	</div>
@@ -129,6 +186,8 @@ Your Homepage is an interactive web documentary project about memory and localit
 		</section>
 	</div>
 </footer>
+
+<script src="/assets/scripts/bundle.js?v=1793721321" type="module"></script>
 
 	<script src="/assets/scripts/vendor/jquery-1.12.4.min.js"></script>
 	<script src="/assets/scripts/vendor/scrollreveal.min.js"></script>

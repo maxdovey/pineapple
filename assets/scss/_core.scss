@@ -8,8 +8,8 @@ html {
 
 body {
 	@include font-default;
-	background: $color-cream;
-	color: $color-black;
+	background: var(--background-colour);
+	color: var(--text-colour);
 	font-family: $font-primary;
 	line-height: 1.6;
 	font-weight: 600;
@@ -18,7 +18,7 @@ body {
 
 h1,
 .h1 {
-	color: $color-black;
+	color: var(--text-colour);
 	font-size: 2.7rem;
 	font-weight: 600;
 	line-height: 1;
@@ -50,16 +50,21 @@ p {
 }
 
 a {
-	@include hover(color, $animation-speed-fast, $animation-ease-default);
-	color: rgba(0, 0, 0, 0.6);
+	@include hover(opacity, $animation-speed-fast, $animation-ease-default);
+	color: var(--text-colour);
+	opacity: 0.6;
 	text-decoration: none;
 
+	.dark-mode & {
+		opacity: 0.85;
+	}
+
 	&:hover {
-		color: $color-black;
+		opacity: 1;
 	}
 
 	&.blur {
-		color: #339
+		color: #339 // Is this used anywhere? If so it will need a toggle for the dark theme
 	}
 }
 
@@ -75,7 +80,7 @@ img {
 }
 
 hr {
-	background: $color-silver-chalice;
+	background: var(--accent-colour);
 	border: 0;
 	display: block;
 	height: 1px;
@@ -87,13 +92,13 @@ hr {
 }
 
 abbr[title] {
-	border-bottom: 1px dotted $color-black;
+	border-bottom: 1px dotted var(--text-colour);
 	text-decoration: none;
 }
 
 code {
-	background: $color-white;
-	border: 1px solid $color-silver-chalice;
+	background: var(--text-colour);
+	border: 1px solid var(--accent-colour);
 	border-radius: 3px;
 	font-family: $font-lekton;
 	font-size: 1.5rem;
@@ -149,7 +154,7 @@ table {
 
 	tbody > tr:nth-child(odd) > td,
 	tbody > tr:nth-child(odd) > th {
-		background: $color-white-sand;
+		background: var(--table-row-colour);
 	}
 
 	th,
@@ -162,7 +167,7 @@ table {
 }
 
 blockquote {
-	border-left: .6rem solid $color-black;
+	border-left: .6rem solid var(--text-colour);
 	padding-left: 2rem;
 	margin: 0 0 3rem;
 

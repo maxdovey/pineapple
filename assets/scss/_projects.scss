@@ -21,8 +21,11 @@
 
 	a {
 		display: block;
+		opacity: 0.9;
 
 		&:hover {
+			opacity: 1;
+
 			.img-wrapper {
 				&:before {
 					opacity: 1;
@@ -104,6 +107,7 @@
 
 	.container {
 		max-width: 100%;
+		margin: 21rem 0 0;
 	}
 
 	article {
@@ -176,7 +180,7 @@
 }
 
 .project-navigation {
-	background: $color-black;
+	background: rgba(255, 255, 255, 0.3);
 	padding: 5rem 0;
 
 	a {
@@ -271,6 +275,7 @@
 		display: inline-block;
 		font-size: 1.8rem;
 		position: relative;
+		margin-left: 0.75rem;
 
 		&:after {
 			content: "";
@@ -279,7 +284,7 @@
 			height: 1px;
 			bottom: -4px;
 			left: 0;
-			background-color: $color-white;
+			background-color: rgba(0, 0, 0, 0.5);
 			visibility: hidden;
 			-webkit-transform: scaleX(0);
 			transform: scaleX(0);

@@ -1,0 +1,16 @@
+links:
+
+- title: Projects
+  url: /projects/
+
+- title: Production
+  url: /production/
+
+- title: Teaching
+  url: /teaching/
+
+- title: CV
+  url: /cv.html
+
+- title: Publications
+  url: /publications.html
