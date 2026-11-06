@@ -118,10 +118,9 @@
 
 		@media (min-width: $breakpoint-medium) {
 			float: right;
-			right: 0;
-			width: 40%;
+			width: 47%;
 			position: absolute;
-			right: 5%;
+			right: 0;
 		}
 	}
 
@@ -133,6 +132,7 @@
 		@media (min-width: $breakpoint-medium) {
 			float: left;
 			width: 55%;
+			margin-left: -3rem;
 		}
 	}
 
@@ -234,6 +234,9 @@
 
 		&.next {
 			span {
+				display: block;
+				margin: 0;
+
 				&:after {
 					content: "\02192";
 				}
@@ -242,7 +245,9 @@
 
 		&.prev {
 			span {
+				display: block;
 				position: relative;
+				margin: 0;
 				left: 0;
 				-webkit-transition: all .3s ease-in-out 0s;
 				transition: all .3s ease-in-out 0s;
@@ -266,12 +271,13 @@
 
 	h2 {
 		display: inline-block;
-		font-size: 1.4rem;
+		font-size: 1.2rem;
 		position: relative;
-		margin-left: 0.75rem;
+		margin: 0;
+		letter-spacing: initial;
 
 		@media (min-width: $breakpoint-medium) {
-			font-size: 1.8rem;
+			font-size: 1.5rem;
 		}
 
 		&:after {
