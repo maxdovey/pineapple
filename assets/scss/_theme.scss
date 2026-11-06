@@ -6,6 +6,7 @@
     --header-colour: #{$color-coffee};
     --accent-colour: #{$color-silver-chalice};
     --table-row-colour: #{$color-white-sand};
+    --underline-colour: rgba(0, 0, 0, 0.5);
 }
 
 /* Dark mode variables */
@@ -16,6 +17,7 @@
     --header-colour: #{$dark-mode-header};
     --accent-colour: #{colour-grey--dark};
     --table-row-colour: #{$color-grey--dark};
+    --underline-colour: rgba(255, 255, 255, 0.5);
 
     .dark-mode-on {
         display: none;

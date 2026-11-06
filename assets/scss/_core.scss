@@ -8,6 +8,7 @@ html {
 
 body {
 	@include font-default;
+	@include hover(all, $animation-speed-fast, $animation-ease-default);
 	background: var(--background-colour);
 	color: var(--text-colour);
 	font-family: $font-primary;
@@ -19,10 +20,13 @@ body {
 h1,
 .h1 {
 	color: var(--text-colour);
-	font-size: 2.7rem;
 	font-weight: 600;
 	line-height: 1;
 	margin: 0;
+
+	@media (min-width: $breakpoint-medium) {
+		font-size: 2.7rem;
+	}
 }
 
 h2,

@@ -107,7 +107,10 @@
 
 	.container {
 		max-width: 100%;
-		margin: 21rem 0 0;
+
+		@media (min-width: $breakpoint-medium) {
+			margin: 21rem 0 0;
+		}
 	}
 
 	article {
@@ -122,10 +125,7 @@
 		}
 	}
 
-	aside {
-		margin-left: -3rem;
-		margin-right: -3rem;
-
+	aside {		
 		@media (min-width: $breakpoint-small) {
 			@include clearfix;
 		}
@@ -133,13 +133,6 @@
 		@media (min-width: $breakpoint-medium) {
 			float: left;
 			width: 55%;
-		}
-
-		@media (max-width: $breakpoint-medium) {
-			margin-top: -6rem;
-			margin-bottom: 3rem;
-			padding-left: 3rem;
-			padding-right: 3rem;
 		}
 	}
 
@@ -273,9 +266,13 @@
 
 	h2 {
 		display: inline-block;
-		font-size: 1.8rem;
+		font-size: 1.4rem;
 		position: relative;
 		margin-left: 0.75rem;
+
+		@media (min-width: $breakpoint-medium) {
+			font-size: 1.8rem;
+		}
 
 		&:after {
 			content: "";
@@ -284,7 +281,7 @@
 			height: 1px;
 			bottom: -4px;
 			left: 0;
-			background-color: rgba(0, 0, 0, 0.5);
+			background-color: var(--underline-colour);
 			visibility: hidden;
 			-webkit-transform: scaleX(0);
 			transform: scaleX(0);
