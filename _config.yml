@@ -18,5 +18,7 @@ highlighter: rouge
 sass:
   sass_dir: assets/scss
   style: compressed
+  quiet_deps: true
+  silence_deprecations: ['import']
 exclude: [docs]
 include: [_headers]
