@@ -19,3 +19,4 @@ sass:
   sass_dir: assets/scss
   style: compressed
 exclude: [docs]
+include: [_headers]
